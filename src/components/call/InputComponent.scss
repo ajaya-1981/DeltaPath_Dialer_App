@@ -1,0 +1,11 @@
+.icon-backspace {
+	font-size: x-large !important;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 7px;
+	right: 10px;
+	z-index: 999;
+	pointer-events: visibleFill !important;
+	cursor: pointer;
+}
